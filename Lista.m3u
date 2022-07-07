@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN MX [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 2 MX [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN2_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 3 MX [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN3_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN Plus MX [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/ESPNPLUS_MX/index.m3u8
