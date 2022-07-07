@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg"
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_de.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/TNT_TV_logo.svg"
+https://cdn.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
